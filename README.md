@@ -13,3 +13,5 @@ create Http server for uploading and downloading sum info about customer
 use customer table in \Day-7\dvdrental.tar
 upload infos via POST request and download specific/all item via GET request
 use git and github
+
+14:18 = im warring with  https://proxy.golang.org/github.com/gabriel-vasile/mimetype/@v/v1.4.3.zip 403 error
