@@ -20,4 +20,4 @@ i solve it with copilot's help : go get -u
 
 its done
 
-see resources : 
+see resources : https://github.com/tkm315/Day-8/blob/main/web-service-gin.rar
