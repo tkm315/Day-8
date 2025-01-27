@@ -21,3 +21,6 @@ i solve it with copilot's help : go get -u
 its done
 
 see resources : https://github.com/tkm315/Day-8/blob/main/web-service-gin.rar
+
+summary : 1)import htpp and gin   2)declare your data structure    
+3)make some data with your structure     3)main : routing and runing server    4)provide funcs    5)laugh and go to your bed
