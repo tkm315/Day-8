@@ -17,3 +17,7 @@ use git and github
 14:18 = im warring with  https://proxy.golang.org/github.com/gabriel-vasile/mimetype/@v/v1.4.3.zip 403 error
 
 i solve it with copilot's help : go get -u
+
+its done
+
+see resources : 
